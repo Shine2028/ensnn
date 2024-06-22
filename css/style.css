@@ -773,6 +773,19 @@ h6 {
     letter-spacing: 2px;
     padding-bottom: 0;
 }
+@media (max-width: 600px) {
+    .section-subtitle {
+        font-size: 16px; /* Adjust subtitle font size for mobile */
+    }
+
+    .section-heading h3 {
+        font-size: 12px; /* Adjust h3 font size for mobile */
+    }
+
+    .section-heading {
+        padding: 0 10px 15px 10px; /* Adjust padding for mobile */
+    }
+}
 
 /*------------------------------------------------------------------------------------------*/
 /* 4. Banner */
