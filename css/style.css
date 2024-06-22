@@ -353,9 +353,10 @@ section {
 }
 
 #logo img {
-    max-height: 110px;
+    max-height: 170px;
     vertical-align: middle;
     margin-right: 75px;
+    margin-top: -50px
 }
 
 #navigation-logo {
@@ -718,7 +719,7 @@ a img:hover {
 /*------------------------------------------------------------------------------------------*/
 
 h1 {
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
 h2 {
